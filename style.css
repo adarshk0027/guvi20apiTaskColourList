@@ -1,0 +1,37 @@
+.main h2{
+    margin-left: 29rem;
+}
+.Title1{
+    color: blue;
+}
+.Title2{
+    color: rgb(200, 95, 113);
+}
+.body{
+    margin-left: 2rem;
+    padding: 2rem;
+    background-color: aqua;
+    width: 80%;
+    height: auto;
+}
+.body > .table{
+    background-color: #e5e5e5;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    width: fit-content;
+    margin-left: 15rem;
+}
+table{
+    border-style:solid ;
+    border-color: black;
+
+}
+ th{
+    border-style:solid ;
+    border-color: black;
+}
+td
+{
+    border-style:solid ;
+    border-color: rgb(59, 59, 175);
+}
